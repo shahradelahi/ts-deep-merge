@@ -1,4 +1,4 @@
-import { isObject, isPlainObject } from '@se-oss/object';
+import { isObject, isPlainObject } from '@se-oss/is';
 
 import type { DeepMergeOptions } from './typings';
 
